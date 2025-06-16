@@ -1,0 +1,10 @@
+{
+  "url": "https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "term": "Fall2025",
+  "subject_dropdown_xpath": "//select[@id='SSR_CLSRCH_WRK_SUBJECT_SRCH$0']",
+  "campus": "All Locations",
+  "search_button_xpath": "//a[contains(@id, 'CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH')]",
+  "table_xpath": "//table[contains(@id, 'SSR_CLSRCH_MTG1')]",
+  "pagination_xpath": "//a[contains(text(),'View All Sections') or contains(@title, 'next')]",
+  "output_file": "laccd_fall2025_output.xlsx"
+}
